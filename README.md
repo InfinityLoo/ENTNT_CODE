@@ -1,4 +1,6 @@
-Front-end Application README
+Front-end ERP Application
+
+
 This README provides instructions for running and using the front-end application. The application is designed for managing products and orders within an ERP system.
 
 Prerequisites :
